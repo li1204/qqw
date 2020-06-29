@@ -1,1 +1,1 @@
-pribt
+print()
